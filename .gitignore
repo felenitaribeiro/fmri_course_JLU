@@ -1,2 +1,4 @@
 fmriprep-work/*
 .ipynb_checkpoints/*
+bids/*
+__pycache__/*
